@@ -1,4 +1,4 @@
-# 4C Continuous Integration Assignment
+# CI Practice
 
 ### Assessment criteria
 - Completeness of implementation according to the requirements.
@@ -68,7 +68,6 @@ Connect to the SQL Server instance you created and perform a select on Work tabl
 * We suggest you to install/use the Windows Server into a new VM Machine that you need to create using the evaluation version of Windows and can be directly downloaded at Microsoft website.
 * The REST endpoint (Web Application/API) should be configured to run on "localhost" on port 80.
 * You need to do some research and come up with a PowerShell script that connects to SQL Server and runs the SQL Script we provided to setup the database table structure.
-* You can send us an e-mail (fabricio.polonio at 4cinsights.com, bulat.gafurov at 4cinsights.com) if you have any question.
 
 ### Notes
 
