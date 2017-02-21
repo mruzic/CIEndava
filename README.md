@@ -23,7 +23,7 @@ The assignment simulates system with following workflow.
 1. Install Microsoft .NET Framework 4.6.1 Developer Pack
 
 #### Phase 2 - Build
-1. Clone the https://github.com/Teletrax/CIAssignment.git repository into some folder
+1. Clone the https://github.com/mruzic/CI.git repository into some folder
 1. Restore .NET Core Package
 1. Build / Publish (Release Mode)
   1. FourC.Worker.Api
