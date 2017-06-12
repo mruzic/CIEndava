@@ -63,5 +63,3 @@ Connect to the SQL Server instance you created and perform a select on Work tabl
 ### Notes
 
 * Given a clean Windows 2012R2/2016 Server machine, this powershell script should run and install/deploy all those components without errors.
-* You can also suggest improvements to the build pipeline or point to security issues.
-* You can "Fork" this repository on Github and commit your solution into the some folder, ex: "Solution".
