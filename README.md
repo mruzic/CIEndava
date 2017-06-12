@@ -65,7 +65,7 @@ Connect to the SQL Server instance you created and perform a select on Work tabl
 
 ### Assume
 
-* We suggest you to install/use the Windows Server into a new VM Machine that you need to create using the evaluation version of Windows and can be directly downloaded at Microsoft website.
+* Suggestion is to install/use the Windows Server into a new VM Machine that you need to create using the evaluation version of Windows and can be directly downloaded at Microsoft website.
 * The REST endpoint (Web Application/API) should be configured to run on "localhost" on port 80.
 * You need to do some research and come up with a PowerShell script that connects to SQL Server and runs the SQL Script we provided to setup the database table structure.
 
