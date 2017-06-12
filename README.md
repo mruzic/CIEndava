@@ -1,12 +1,5 @@
 # CI Practice
 
-### Assessment criteria
-- Completeness of implementation according to the requirements.
-- Simplicity and readabilty of code.
-- Maintainability of the solution.
-
-### Application
-
 The assignment simulates system with following workflow.
 
 1. External actor (User) sends a REST request to the `FourC.Worker.Api` endpoint at `/v1/worker`
