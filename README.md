@@ -1,4 +1,4 @@
-# CI Practice
+# CI Challenge
 
 1. External actor (User) sends a REST request to the `FourC.Worker.Api` endpoint at `/v1/worker`
 1. `FourC.Worker.Api` handles web request by posting it to the queue (MSMQ)
